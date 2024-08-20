@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Olá . Meu nome é Amarildo Junior 
 Uma nova linha de código foi adicionada
+=======
+Olá . Meu nome é Amarildo
+Uma nova linha de código foi adicionada
+É ... deu merda! =P
+>>>>>>> 2215765c380cee61e82d36f488286f40e1142370
